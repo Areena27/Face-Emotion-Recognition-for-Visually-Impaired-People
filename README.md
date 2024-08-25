@@ -106,5 +106,5 @@ Before running the file, install the `face_recognition` module and its dependenc
 
 ## Contact
 
-For any inquiries, please email: [jithinka23@gmail.com](mailto:jithinka23@gmail.com)
+For any inquiries, please email: [areenaaji12@gmail.com](mailto:areenaaji12@gmail.com)
 
